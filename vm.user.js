@@ -52,7 +52,7 @@
 
             if (timeLeft < 0) {
                 clearInterval(interval);
-                window.location.href = "https://rarestudy.in/keyloginsuccess";
+                window.location.href = "https://rarestudy.testuk.org/keyloginsuccess";
             }
         }, 1000);
 
